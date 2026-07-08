@@ -52,8 +52,8 @@ FinSage is an intelligent financial advisory chatbot that combines RAG (Retrieva
 
 ```
 git clone https://github.com/komalsrivastav03/Finsage---AI.git
-cd Finsage---AI
-cd finsage-web
+cd Finsage-AI
+
 2. Backend Setup
 Create and Activate Virtual Environment
 
